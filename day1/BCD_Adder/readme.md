@@ -61,6 +61,3 @@ Therefore, 5 + 7 = 12.
 * Arithmetic Logic Units (ALUs)
 
 
-
-Created as part of a Digital Electronics project.
-
