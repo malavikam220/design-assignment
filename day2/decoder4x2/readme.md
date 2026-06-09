@@ -45,6 +45,4 @@ Only one input should be active at a time for correct operation.
 * Digital communication systems
 * Interrupt handling systems
 
-## Author
 
-Created as part of a Digital Electronics project.
