@@ -141,7 +141,7 @@ day8/
 │   └── fifo_transaction
 └── day8
     ├── apb
-    └── axicb_project
+└── axicrossbar_project
 ```
 
 ## Topics Covered
