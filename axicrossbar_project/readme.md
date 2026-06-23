@@ -411,6 +411,6 @@ These additions make the crossbar more suitable for complex SoC environments whe
 
 
 # Output 
-[Simulation](axicrossbar_project/image.md)
+[Simulation](image.md)
 
 
