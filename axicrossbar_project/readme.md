@@ -410,7 +410,5 @@ The design now provides:
 These additions make the crossbar more suitable for complex SoC environments where traffic contention, slave failures, and long-running transactions must be handled gracefully.
 
 
-# Output 
-[Simulation](image.md)
 
 
