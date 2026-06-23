@@ -358,7 +358,7 @@ The response monitor tracks transaction failures and timeout-generated errors.
 
 # Verification
 
-A sanity testbench was developed and executed using EDA Playground.
+A sanity testbench was developed and executed using Vivado.
 
 The testbench verifies:
 
@@ -411,6 +411,6 @@ These additions make the crossbar more suitable for complex SoC environments whe
 
 
 # Output 
-
+[Simulation](axicrossbar_project/image.md)
 
 
